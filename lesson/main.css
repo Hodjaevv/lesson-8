@@ -1,0 +1,15 @@
+.collection{
+    position: relative;
+    width: 1200px;
+    height: 200px;
+    margin: 0 auto;
+    background-image: url(./images/our-collection.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.collection-list{
+    position: absolute;
+    top: 30%;
+    display: flex;
+    list-style: none;
+}
